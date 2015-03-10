@@ -1,3 +1,4 @@
 # hello-world
 Learning how to create repository on Git Hub
-trying to test out what branches are and how they work
+This time I am going to try subtraction
+maybe a little addition
